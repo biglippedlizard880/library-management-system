@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": "12.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "2",
+      "name": "The Land Before Time",
+      "author": "Alan Moore",
+      "genre": "Fantasy",
+      "price": "12.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "3",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": "15.99",
+      "publisher": "Bloomsbury"
+    },
+    {
+      "id": "4",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "price": "10.99",
+      "publisher": "HarperCollins"
+    }
+  ]
+}
